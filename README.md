@@ -1,4 +1,3 @@
-# Purpose
 Lock command-line buffers to insert it each time after the command is excuted.
 
 To break the lock, simply deviate initial command-line buffer.
