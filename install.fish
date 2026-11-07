@@ -36,3 +36,4 @@ for dir in functions completions
         )
     end
 end
+install -D --mode=644 -- "$root_dir"conf.d/bind-lock-buffer.fish "$out"/"$remote"share/fish/vendor_conf.d/bind-lock-buffer.fish
